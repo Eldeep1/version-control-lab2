@@ -7,6 +7,6 @@ class HelloWorld{
         System.out.println("Hello World");
     }
     private static void  printMyName(){
-        System.out.println("Hello Eyad");
+        System.out.println("Hello Eyad waleed");
     }
 }
